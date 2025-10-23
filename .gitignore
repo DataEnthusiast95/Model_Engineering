@@ -1,3 +1,5 @@
 mlruns/          # Ignoriert den Ordner mlruns/ im Stammverzeichnis
 model/mlruns/    # Ignoriert den Ordner mlruns/ im Unterordner model/
 model/mlartifacts/ # ignoriert alle artifacts
+data_analysis/plots/ # Ignoriert den Ordner plots/ im Unterordner data_analysis/
+model/plots/ # Ignoriert den Ordner plots/ im Unterordner model/
