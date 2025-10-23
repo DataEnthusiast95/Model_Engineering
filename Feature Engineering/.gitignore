@@ -1,2 +1,0 @@
-mlruns/          # Ignoriert den Ordner mlruns/ im Stammverzeichnis
-model/mlruns/    # Ignoriert den Ordner mlruns/ im Unterordner model/
